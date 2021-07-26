@@ -1,4 +1,3 @@
-# Connect4
 
 ## Interface console
 
